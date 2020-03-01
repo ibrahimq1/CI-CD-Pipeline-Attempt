@@ -8,4 +8,4 @@ CI/CD pipeline for applications built to run on Dockers using Jenkins and Kubern
 6) Pull new images from registry.
 7) Deploy and manage images and containers.
 
-<b>Depriciated, moving to new repo. </b>
+<b>Reopened</b>
